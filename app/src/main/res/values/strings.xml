@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">RandomBackGround</string>
+    <string name="tap">TAP!</string>
 </resources>
